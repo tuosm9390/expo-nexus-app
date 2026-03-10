@@ -1,0 +1,371 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1773146992162,
+  "projectRoot": "C:\\Users\\tuosm\\.gemini\\antigravity\\scratch\\expo-nexus-app",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "tsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "react",
+        "version": "19.2.0",
+        "category": "frontend"
+      },
+      {
+        "name": "react-dom",
+        "version": "19.2.0",
+        "category": "frontend"
+      }
+    ],
+    "packageManager": "npm",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": "npm run start",
+    "scripts": {
+      "start": "expo start",
+      "android": "expo start --android",
+      "ios": "expo start --ios",
+      "web": "expo start --web"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": "type-based"
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "app",
+      "assets",
+      "components",
+      "src"
+    ],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "app": {
+      "path": "app",
+      "purpose": "Application code",
+      "fileCount": 4,
+      "lastAccessed": 1773146992112,
+      "keyFiles": [
+        "+html.tsx",
+        "+not-found.tsx",
+        "modal.tsx",
+        "_layout.tsx"
+      ]
+    },
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1773146992112,
+      "keyFiles": []
+    },
+    "components": {
+      "path": "components",
+      "purpose": "UI components",
+      "fileCount": 8,
+      "lastAccessed": 1773146992131,
+      "keyFiles": [
+        "EditScreenInfo.tsx",
+        "ExternalLink.tsx",
+        "StyledText.tsx",
+        "Themed.tsx",
+        "useClientOnlyValue.ts"
+      ]
+    },
+    "constants": {
+      "path": "constants",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1773146992131,
+      "keyFiles": [
+        "Colors.ts"
+      ]
+    },
+    "doc copy": {
+      "path": "doc copy",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1773146992132,
+      "keyFiles": [
+        "AI_LOGIC.md",
+        "ARCHITECTURE.md",
+        "COMMON_MISTAKES.md",
+        "DATABASE.md",
+        "LESSONS_LEARNED.md"
+      ]
+    },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1773146992134,
+      "keyFiles": []
+    },
+    "src\\components": {
+      "path": "src\\components",
+      "purpose": "UI components",
+      "fileCount": 0,
+      "lastAccessed": 1773146992137,
+      "keyFiles": []
+    },
+    "src\\services": {
+      "path": "src\\services",
+      "purpose": "Business logic services",
+      "fileCount": 0,
+      "lastAccessed": 1773146992137,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "app.json",
+      "accessCount": 6,
+      "lastAccessed": 1773148738032,
+      "type": "file"
+    },
+    {
+      "path": "app\\(tabs)\\index.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1773155278529,
+      "type": "file"
+    },
+    {
+      "path": "app\\(tabs)\\_layout.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1773155280296,
+      "type": "file"
+    },
+    {
+      "path": "app\\_layout.tsx",
+      "accessCount": 5,
+      "lastAccessed": 1773155280566,
+      "type": "file"
+    },
+    {
+      "path": "constants\\Colors.ts",
+      "accessCount": 5,
+      "lastAccessed": 1773155288817,
+      "type": "file"
+    },
+    {
+      "path": "",
+      "accessCount": 4,
+      "lastAccessed": 1773147554337,
+      "type": "directory"
+    },
+    {
+      "path": "app\\(tabs)\\two.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1773155279070,
+      "type": "file"
+    },
+    {
+      "path": "app\\modal.tsx",
+      "accessCount": 4,
+      "lastAccessed": 1773155280847,
+      "type": "file"
+    },
+    {
+      "path": "doc copy\\ARCHITECTURE.md",
+      "accessCount": 3,
+      "lastAccessed": 1773148450012,
+      "type": "file"
+    },
+    {
+      "path": "doc copy\\COMMON_MISTAKES.md",
+      "accessCount": 3,
+      "lastAccessed": 1773148450486,
+      "type": "file"
+    },
+    {
+      "path": "doc copy\\LESSONS_LEARNED.md",
+      "accessCount": 3,
+      "lastAccessed": 1773148450941,
+      "type": "file"
+    },
+    {
+      "path": "doc copy\\UI_UX_GUIDE.md",
+      "accessCount": 3,
+      "lastAccessed": 1773148451283,
+      "type": "file"
+    },
+    {
+      "path": "tsconfig.json",
+      "accessCount": 3,
+      "lastAccessed": 1773148788875,
+      "type": "file"
+    },
+    {
+      "path": "src\\components\\Prescription\\PrescriptionCard.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1773155286079,
+      "type": "file"
+    },
+    {
+      "path": "package.json",
+      "accessCount": 3,
+      "lastAccessed": 1773155286736,
+      "type": "file"
+    },
+    {
+      "path": "src\\components\\Prescription\\StyleSelector.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1773155286963,
+      "type": "file"
+    },
+    {
+      "path": "src\\components\\Prescription\\WorryInput.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1773155287361,
+      "type": "file"
+    },
+    {
+      "path": "src\\components\\Prescription\\BrewingAnimation.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1773155288200,
+      "type": "file"
+    },
+    {
+      "path": "src\\components\\Prescription\\PrescriptionListItem.tsx",
+      "accessCount": 3,
+      "lastAccessed": 1773155288701,
+      "type": "file"
+    },
+    {
+      "path": "src\\types\\prescription.ts",
+      "accessCount": 3,
+      "lastAccessed": 1773155294071,
+      "type": "file"
+    },
+    {
+      "path": "global.css",
+      "accessCount": 3,
+      "lastAccessed": 1773155294520,
+      "type": "file"
+    },
+    {
+      "path": "tailwind.config.js",
+      "accessCount": 3,
+      "lastAccessed": 1773155295087,
+      "type": "file"
+    },
+    {
+      "path": "doc copy\\DATABASE.md",
+      "accessCount": 2,
+      "lastAccessed": 1773148085900,
+      "type": "file"
+    },
+    {
+      "path": "app\\+not-found.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1773148893310,
+      "type": "file"
+    },
+    {
+      "path": "components\\ExternalLink.tsx",
+      "accessCount": 2,
+      "lastAccessed": 1773148964876,
+      "type": "file"
+    },
+    {
+      "path": "src\\hooks\\usePrescription.ts",
+      "accessCount": 2,
+      "lastAccessed": 1773155284288,
+      "type": "file"
+    },
+    {
+      "path": "src\\services\\ai.ts",
+      "accessCount": 2,
+      "lastAccessed": 1773155284749,
+      "type": "file"
+    },
+    {
+      "path": "src\\services\\prompts.ts",
+      "accessCount": 2,
+      "lastAccessed": 1773155285233,
+      "type": "file"
+    },
+    {
+      "path": "src\\store\\prescriptionStore.ts",
+      "accessCount": 2,
+      "lastAccessed": 1773155285609,
+      "type": "file"
+    },
+    {
+      "path": "src\\store\\secureStorage.ts",
+      "accessCount": 2,
+      "lastAccessed": 1773155286001,
+      "type": "file"
+    },
+    {
+      "path": "README.md",
+      "accessCount": 1,
+      "lastAccessed": 1773147544637,
+      "type": "file"
+    },
+    {
+      "path": "GEMINI.md",
+      "accessCount": 1,
+      "lastAccessed": 1773147545085,
+      "type": "file"
+    },
+    {
+      "path": "doc copy\\AI_LOGIC.md",
+      "accessCount": 1,
+      "lastAccessed": 1773148087608,
+      "type": "file"
+    },
+    {
+      "path": "babel.config.js",
+      "accessCount": 1,
+      "lastAccessed": 1773148523443,
+      "type": "file"
+    },
+    {
+      "path": "metro.config.js",
+      "accessCount": 1,
+      "lastAccessed": 1773148530193,
+      "type": "file"
+    },
+    {
+      "path": ".env",
+      "accessCount": 1,
+      "lastAccessed": 1773148530730,
+      "type": "file"
+    },
+    {
+      "path": "nativewind-env.d.ts",
+      "accessCount": 1,
+      "lastAccessed": 1773148804213,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}

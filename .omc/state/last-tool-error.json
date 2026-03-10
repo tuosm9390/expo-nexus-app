@@ -1,0 +1,7 @@
+{
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"C:/Users/tuosm/.gemini/antigravity/scratch/expo-nexus-app/app/(tabs)/+html.tsx\"}",
+  "error": "File does not exist. Note: your current working directory is C:\\Users\\tuosm\\.gemini\\antigravity\\scratch\\expo-nexus-app.",
+  "timestamp": "2026-03-10T13:23:19.314Z",
+  "retry_count": 1
+}
